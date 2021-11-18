@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Projektas_10.exe
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Projektas_10.dll
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Projektas_10.deps.json
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Projektas_10.runtimeconfig.json
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Projektas_10.pdb
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

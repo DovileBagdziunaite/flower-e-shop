@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Acer\Desktop\Programavimas\002 C\GeneralGitRepository.vcs.lt\Projektas_10\Projektas_10\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-10-16T17:42:33.7555377Z;True|2021-10-15T15:18:46.8529556+03:00;True|2021-09-30T03:27:24.4048583+03:00;</History>
+  </PropertyGroup>
+</Project>
